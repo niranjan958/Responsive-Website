@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav.thrill{
+    margin-left: 300px;
+    
+    
+    color:antiquewhite;
+    font-size: 25px;
+}
+.nav-link.volvar{
+    color:cadetblue;
+}
+.nav-link.kill{
+    color:antiquewhite;
+    font-size: 30px;
+}
+.nav-link.killer{
+    color: antiquewhite;
+}
+:hover.nav-link.killer{
+    color: goldenrod;
+}
+
+
+
+
+.section1{
+    background-color: black;
+}
+/* .kane{
+    color: antiquewhite;
+} */
+.wow{
+    color:antiquewhite;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+}
+:hover{
+    color: crimson;
+}
+.lose{
+    color: antiquewhite;
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+    
+}
+.karm{
+    background-color: rgb(70, 23, 124);
+    color: bisque;
+    position: relative;
+    border-radius: 12px;
+    
+    padding: 20px;
+    margin-top: 30px;
+}
+:hover.karm{
+    background-color: rgb(128, 33, 20);
+    color:bisque
+}
+.rear{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.maina{
+    
+    
+    background-color: black;
+
+}
+:hover.maina{
+    opacity:0.9;
+}
+.section{
+    width:100%;
+    background-color: black;
+}
+.kuruvi{
+    background-color:black;
+    padding: 20px;
+}
+.vaal{
+     text-align: center;
+    color:green;
+    font-size: 30px;
+}
+.vali{
+    font-size: 18px;
+    color: antiquewhite;
+}.valli{
+    font-size: 18px;
+    color: antiquewhite;
+    
+}
+.veeram{
+    font-size: 18px;
+    color: antiquewhite;
+    margin-top: 30px;
+}
+.valimai{
+    font-size: 18px;
+    color: antiquewhite;
+    margin-top: 20px;
+}
+.section5{
+    background-color: black;
+}
+.vanmam{
+    font-size: 40px;
+    color: coral;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.misses{
+    display: flex;
+    justify-content: center;
+    height:150px;
+    border-top: 50px;
+
+}
+.thrrrill{
+    margin-top: 60px;
+    color: antiquewhite;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.these{
+    color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.wiiill{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    background-color: rgb(228, 195, 12);
+    margin-top: 20px;
+    
+}
+.close{
+    margin-top: 1px;
+
+}
+.vasu{
+    background-color: rgb(43, 31, 31);
+}

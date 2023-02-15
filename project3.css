@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar-nav.think{
+    margin-left: 300px;
+    
+    
+    color:antiquewhite;
+    font-size: 25px;
+}
+.nav-link.volvar{
+    color:cadetblue;
+}
+.nav-link.kill{
+    color:antiquewhite;
+    font-size: 30px;
+}
+.nav-link.killer{
+    color: antiquewhite;
+}
+:hover.nav-link.killer{
+    color: goldenrod;
+}
+
+
+
+.section1{
+    background-color: black;
+}
+.trisha{
+    color: antiquewhite;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.tammanah{
+    color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+}
+.karm{
+    background-color: rgb(70, 23, 124);
+    color: bisque;
+    position: relative;
+    border-radius: 12px;
+    
+    padding: 30px;
+    margin-top: 30px;
+}
+:hover.karm{
+    background-color: rgb(128, 33, 20);
+    color: bisque;
+}
+.rear{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.section2{
+    background-color: black;
+}
+.grill{
+    color: antiquewhite;
+    font-size: 20px;
+    padding: 30px;
+    background-color:rgb(49, 25, 25);
+    border: 5px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+:hover.grill{
+    background-color: rgb(17, 180, 118);
+    color: black;
+}
+.section5{
+    background-color: black;
+}
+.vanmam{
+    font-size: 40px;
+    color: coral;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.misses{
+    display: flex;
+    justify-content: center;
+    height:150px;
+    border-top: 50px;
+
+}
+.thrill{
+    margin-top: 60px;
+    color: antiquewhite;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.these{
+    color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.wiiill{
+    font-size: 25px;
+    color:black;
+    text-align: center;
+    background-color: rgb(228, 195, 12);
+    margin-top: 20px;
+    
+}
+.close{
+    margin-top: 1px;
+
+}
+.section4{
+    background-color: black;
+
+}
+.mens{
+    color: antiquewhite;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
